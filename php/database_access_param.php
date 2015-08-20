@@ -2,5 +2,5 @@
 $hostname = "localhost";
 $dbuser = "root";
 $dbpassword = "";
-$dbname = "pohehe_training";
+$dbname = "taranakigate_training";
 ?>
